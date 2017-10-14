@@ -18,7 +18,7 @@ int a, b;
 
 	@Test
 	public void test() {
-		assertEquals (10, Obj.add(a, b));
+		assertEquals (9, Obj.add(a, b));
 	}
 
 }
